@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test","Create a new booking","SUCCESS","2023-08-08T13:40:20.310+01:00[Europe/London]","0.0","6.24"
+"Booking CURD test","Get the booking","SUCCESS","2023-08-08T13:40:26.587+01:00[Europe/London]","0.0","0.81"
+"Booking CURD test","Update the booking","SUCCESS","2023-08-08T13:40:27.401+01:00[Europe/London]","0.0","1.52"
+"Booking CURD test","Update the partial booking","SUCCESS","2023-08-08T13:40:28.924+01:00[Europe/London]","0.0","1.28"
+"Booking CURD test","Delete the booking","SUCCESS","2023-08-08T13:40:30.204+01:00[Europe/London]","0.0","1.21"
